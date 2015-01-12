@@ -100,7 +100,6 @@ function! pathogen#is_disabled(path) abort
         \ get(g:, 'pathogen_blacklist', get(g:, 'pathogen_disabled', [])) +
         \ pathogen#split($VIMBLACKLIST),
         \ 'substitute(v:val, "[\\/]$", "", "")')
-  return index(blacklist, fnamemodify(a:path, ':t')) != -1 || index(blacklist, a:path) != -1
 endfunction "}}}1
 
 " Prepend the given directory to the runtime path and append its corresponding
