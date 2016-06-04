@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/jeffrey/simonsolutions/charitytracker/charitytracker/forms'
-let g:netrw_dirhist_2='/home/jeffrey'
-let g:netrw_dirhist_3='/home/jeffrey/simonsolutions'
-let g:netrw_dirhist_4='/home/jeffrey/simonsolutions/charitytracker'
-let g:netrw_dirhist_5='/home/jeffrey/simonsolutions/charitytracker/charitytracker'
-let g:netrw_dirhist_6='/home/jeffrey/simonsolutions/charitytracker/charitytracker/forms'
-let g:netrw_dirhist_7='/home/jeffrey'
